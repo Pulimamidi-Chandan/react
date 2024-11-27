@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: #002c56;
+  color: white;
+}
+
+.nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+}
+
+.get-started {
+  background-color: #22b14c;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}

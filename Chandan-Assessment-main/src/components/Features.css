@@ -1,0 +1,19 @@
+.features {
+    padding: 2rem;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .features-grid {
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+  }
+  
+  .feature {
+    max-width: 30%;
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  

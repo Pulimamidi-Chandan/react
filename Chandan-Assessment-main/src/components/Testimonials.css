@@ -1,0 +1,19 @@
+.testimonials {
+    padding: 2rem;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  .testimonials-grid {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .testimonial {
+    max-width: 30%;
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
